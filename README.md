@@ -1,6 +1,6 @@
 # Shadowsocks-libev on Debian (Minimal VM) (Escape the censorship by yourself)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dot0bject/censo-bypass-gist&title=Views)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdot0bject%2Fcenso-bypass-gist%2Fblob%2Fmain%2FREADME.md&label=Views&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 ## 1. VM Setup
 
